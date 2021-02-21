@@ -16,9 +16,11 @@
 <h2>My Github Stats</h2>
 
 <h4>Visitor Count :eyes:</h4>
-<a href="https://github.com/Rizsyad">
-    <img src="https://profile-counter.glitch.me/{Rizsyad}/count.svg" alt="Rizsyad :: Visitor's Count" />
-</a>
+<p>
+    <a href="https://github.com/Rizsyad">
+        <img src="https://profile-counter.glitch.me/{Rizsyad}/count.svg" alt="Rizsyad :: Visitor's Count" />
+    </a>
+</p>
 
 <a href="https://github.com/Rizsyad">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizsyad&theme=tokyonight&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe" alt="Rizsyad :: Top Langs" />
