@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Rizsyad AR
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,  I'm Rizsyad AR
 
 <p align='left'>I am a newbie is interested in technology especially programming and here are some of the programming languages ​​I use</p>
 
@@ -15,19 +15,19 @@
 
 <h2 align="center">My Github Stats</h2>
 
-<h4 align="center">Visitor Count :eyes:</h4>
+<h4>Visitor Count :eyes:</h4>
 <a href="https://github.com/Rizsyad">
     <img align="center" src="https://profile-counter.glitch.me/{Rizsyad}/count.svg" alt="Rizsyad :: Visitor's Count" />
 </a>
 
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<h4>Profile stats :musical_keyboard:</h4>
 <a href="https://github.com/Rizsyad">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rizsyad&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats" alt="Rizsyad :: Profile Stats" />
 </a>
 
 
-<h4 align="center">Top langs :tongue:</h4>
+<h4>Top langs :tongue:</h4>
 <a href="https://github.com/Rizsyad">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizsyad&theme=tokyonight&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe" alt="Rizsyad :: Top Langs" />
 </a>
