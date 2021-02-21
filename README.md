@@ -29,3 +29,6 @@
 <a href="https://github.com/Rizsyad">
     <img src="https://github-readme-stats.vercel.app/api?username=Rizsyad&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats" alt="Rizsyad :: Profile Stats" />
 </a>
+
+Credits: [Rizsyad](https://github.com/Rizsyad)
+
