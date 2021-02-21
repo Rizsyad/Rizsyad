@@ -34,5 +34,5 @@
 </p>
 
 -----
-Credits: [Rizsyad](https://github.com/Rizsyad)
+Credits: [Rizsyad AR](https://github.com/Rizsyad)
 
