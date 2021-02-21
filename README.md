@@ -16,7 +16,7 @@
 <h2>My Github Stats</h2>
 
 <h4>Visitor Count :eyes:</h4>
-<p>
+<p align="center">
     <a href="https://github.com/Rizsyad">
         <img src="https://profile-counter.glitch.me/{Rizsyad}/count.svg" alt="Rizsyad :: Visitor's Count" />
     </a>
@@ -30,7 +30,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Rizsyad&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats" alt="Rizsyad :: Profile Stats" />
 </a>
 
-<p>
+<p align="center" style="margin-top: 10px">
     <a href="https://github.com/Rizsyad">
         <img src="https://github-profile-trophy.vercel.app/?username=Rizsyad&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" alt="Rizsyad :: Tropy Stats" />
     </a>
