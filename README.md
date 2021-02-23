@@ -1,6 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Rizsyad AR
 
-<p align='left'>I am a newbie is interested in technology especially programming and i :like: you
+<p align='left'>I am a newbie is interested in technology especially programming</p>
 
 <h2>My Github Stats</h2>
 
