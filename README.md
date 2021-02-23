@@ -1,10 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Rizsyad AR
 
-<p align='left'>I am a newbie is interested in technology especially programming and here are some of the programming languages ​​I use</p>
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-282A36?style=flat&logo=javascript)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-282A36?style=flat&logo=PHP)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-282A36?style=flat&logo=mysql)&nbsp;
+<p align='left'>I am a newbie is interested in technology especially programming and i :like: you
 
 <h2>My Github Stats</h2>
 
