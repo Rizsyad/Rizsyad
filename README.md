@@ -4,9 +4,6 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-282A36?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-282A36?style=flat&logo=PHP)&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-282A36?style=flat&logo=jquery)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-282A36?style=flat&logo=vue.js)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-282A36?style=flat&logo=laravel)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-282A36?style=flat&logo=mysql)&nbsp;
 
 <h2>My Github Stats</h2>
