@@ -1,4 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Rizsyad AR
+![OS Badge](https://img.shields.io/badge/OS-linux-blue?&logo=Linux)
+[![Gmail Badge](https://img.shields.io/badge/-rizsyad@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rizsyad@gmail.com)](mailto:rizsyad@gmail.com) 
+[![Github Badge](https://img.shields.io/badge/-Rizsyad-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Rizsyad/)](https://www.github.com/rizsyad/)
 
 <p align='left'>I am a newbie is interested in technology especially programming</p>
 
